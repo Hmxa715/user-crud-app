@@ -1,20 +1,39 @@
 # User CRUD App
 
-Fullstack user management application.
+A fullstack User Management application built with React (TypeScript) and Node.js (Express + SQLite3).
+
+This project allows you to create, read, update, and delete users with a clean dashboard interface.
+
+---
 
 ## Tech Stack
-Frontend: React + TypeScript  
-Backend: Node.js + Express  
-Database: MongoDB
+
+### Frontend
+
+- React
+- TypeScript
+- Recharts
+- Tailwind CSS (if used)
+
+### Backend
+
+- Node.js
+- Express
+- TypeScript
+- SQLite3
+
+---
 
 ## Setup
 
 ### Backend
+
 cd backend
 npm install
 npm run dev
 
 ### Frontend
+
 cd frontend
 npm install
 npm run dev
