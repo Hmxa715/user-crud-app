@@ -28,12 +28,16 @@ This project allows you to create, read, update, and delete users with a clean d
 
 ### Backend
 
+```bash
 cd backend
 npm install
 npm run dev
+```
 
 ### Frontend
 
+```bash
 cd frontend
 npm install
 npm run dev
+```
