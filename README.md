@@ -13,7 +13,7 @@ This project allows you to create, read, update, and delete users with a clean d
 - React
 - TypeScript
 - Recharts
-- Tailwind CSS (if used)
+- Tailwind CSS
 
 ### Backend
 
